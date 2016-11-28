@@ -1,0 +1,1 @@
+# DEutsch Tourism Adjectives Network
