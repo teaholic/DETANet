@@ -4,8 +4,7 @@ Exploratory analysis of adjective-noun collocates found in a small corpus.
 
 *Corpus*: 3 descriptions of German luxury hotels (https://de.escapio.com)
 
-*adjektiven.csv*      
-  Manually extracted adjective-noun list.
+*adjektiven.csv* Manually extracted adjective-noun list.
 
 *simple_adjektiven.txt*
 First-layer noun hypernim clustering.
