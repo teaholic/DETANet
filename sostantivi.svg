@@ -1,0 +1,1464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2451.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1132.000000 -2614.000000 2451.000000 3892.000000" height="3892.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -936.332581,819.904358 C -936.599182,750.803284 -833.347473,646.751709 -764.246399,646.485107"
+              class="vicino  luogo" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -699.091858,42.373962 C -623.969543,46.008896 -516.738525,164.144775 -520.373413,239.267090"
+              class="rampicante  giardino" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 103.213188,1215.001465 C -1.326546,1180.415527 -106.257271,971.727051 -71.671349,867.187317"
+              class="pensato  hotel" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 116.943016,1096.731567 C 33.311287,1088.545654 -79.857323,950.819092 -71.671349,867.187317"
+              class="ubicato  hotel" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 274.020966,925.678711 C 193.184235,983.118896 -14.231162,948.024109 -71.671349,867.187317"
+              class="tipico  hotel" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 308.796448,-510.852844 C 475.157104,-553.783569 789.094238,-368.638672 832.024963,-202.278000"
+              class="innovativo  cucina" stroke-opacity="1.0" stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 308.796448,-510.852844 C 152.807129,-443.040070 -182.895966,-575.304993 -250.708710,-731.294250"
+              class="innovativo  stile" stroke-opacity="1.0" stroke="#7f92c2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1196.987305,-1060.613037 C 1202.604370,-1000.221313 1120.442383,-901.208130 1060.050659,-895.591064"
+              class="ospitale  persona" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1306.579590,-1045.154663 C 1287.186523,-965.936157 1139.269165,-876.197998 1060.050659,-895.591064"
+              class="raffinato  persona" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -454.535095,816.099731 C -550.400269,844.119080 -736.227051,742.350281 -764.246399,646.485107"
+              class="numeroso  luogo" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -454.535095,816.099731 C -367.744812,749.744507 -138.026581,780.397034 -71.671349,867.187317"
+              class="numeroso  hotel" stroke-opacity="1.0" stroke="#b17bb3"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -102.222771,1198.133667 C -162.301758,1125.834106 -143.970901,927.266296 -71.671349,867.187317"
+              class="condizionato  hotel" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1121.374878,681.416199 C -1056.935425,603.004272 -842.658325,582.045593 -764.246399,646.485107"
+              class="alcuni  luogo" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.106628,-2603.765869 C -596.590149,-2572.466553 -555.764465,-2437.742676 -587.063904,-2379.226074"
+              class="quadrato  superficie" stroke-opacity="1.0" stroke="#00af87"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 48.705952,1082.048706 C -18.341787,1063.151855 -90.568161,934.235046 -71.671349,867.187317"
+              class="bio  hotel" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -315.701447,-1047.443359 C -239.473083,-997.212097 -200.477417,-807.522583 -250.708710,-731.294250"
+              class="vero e proprio  stile" stroke-opacity="1.0"
+              stroke="#00c7ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -255.890793,-1072.828979 C -186.547424,-1005.558472 -183.438187,-800.637634 -250.708710,-731.294250"
+              class="contemporaneo  stile" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 119.116684,922.821167 C 69.832306,949.851990 -44.640514,916.471680 -71.671349,867.187317"
+              class="spazioso  hotel" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 55.720150,1161.033081 C -28.527304,1127.742188 -104.962204,951.434753 -71.671349,867.187317"
+              class="individuale  hotel" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 32.390110,488.096649 C 87.395950,584.727112 24.959084,812.181519 -71.671349,867.187317"
+              class="speciale  hotel" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 32.390110,488.096649 C -8.208939,395.003632 70.532013,194.465546 163.625046,153.866501"
+              class="speciale  sensazione" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 193.025620,783.302917 C 156.863113,853.019165 -1.955076,903.349854 -71.671349,867.187317"
+              class="rifinito  hotel" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1088.508667,543.151794 C -1002.989502,498.966034 -808.432190,560.965942 -764.246399,646.485107"
+              class="maggiore  luogo" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -764.246399,646.485107 C -813.720215,589.392151 -802.291626,429.541931 -745.198669,380.068054"
+              class=" luogo ricco" stroke-opacity="1.0" stroke="#4099b3"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -764.246399,646.485107 C -711.965942,574.729187 -525.911316,545.515869 -454.155365,597.796326"
+              class=" luogo privato" stroke-opacity="1.0" stroke="#4099b3"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -764.246399,646.485107 C -853.034912,669.053650 -1020.070496,569.723633 -1042.639038,480.935089"
+              class=" luogo salentino" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -764.246399,646.485107 C -727.887085,502.610413 -457.535980,341.337463 -313.661316,377.696808"
+              class=" luogo affascinante" stroke-opacity="1.0" stroke="#749736"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -764.246399,646.485107 C -787.102783,705.497009 -909.905212,759.730408 -968.917114,736.874023"
+              class=" luogo spettacolare" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -764.246399,646.485107 C -840.055420,649.878906 -958.859619,541.256104 -962.253479,465.447052"
+              class=" luogo popolato" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -764.246399,646.485107 C -686.626709,513.678772 -370.987579,430.898773 -238.181229,508.518524"
+              class=" luogo elegante" stroke-opacity="1.0" stroke="#749736"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -764.246399,646.485107 C -679.770508,601.314941 -485.301453,660.273438 -440.131256,744.749268"
+              class=" luogo rinomato" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -764.246399,646.485107 C -739.053650,723.509888 -816.801697,876.836243 -893.826477,902.028992"
+              class=" luogo noto" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -764.246399,646.485107 C -827.408569,670.714172 -958.495361,612.314453 -982.724426,549.152283"
+              class=" luogo ricchissimo" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -764.246399,646.485107 C -810.277100,737.308044 -1015.557617,804.496399 -1106.380615,758.465698"
+              class=" luogo incantevole" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -764.246399,646.485107 C -791.268005,740.121216 -972.254639,840.042908 -1065.890747,813.021301"
+              class=" luogo terrestre" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -764.246399,646.485107 C -840.882202,709.891052 -1050.944824,690.046387 -1114.350830,613.410583"
+              class=" luogo invidiabile" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -764.246399,646.485107 C -739.599304,499.825104 -482.638702,316.805786 -335.978729,341.452881"
+              class=" luogo verde" stroke-opacity="1.0" stroke="#749736"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -764.246399,646.485107 C -753.431763,741.219299 -879.311035,899.542542 -974.045227,910.357178"
+              class=" luogo selvaggio" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -764.246399,646.485107 C -773.627502,743.968750 -933.924561,876.122559 -1031.408203,866.741455"
+              class=" luogo mite" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -764.246399,646.485107 C -808.038208,714.073914 -975.109070,749.769348 -1042.697876,705.977539"
+              class=" luogo 11" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -764.246399,646.485107 C -681.348999,616.204285 -511.581604,695.129211 -481.300751,778.026611"
+              class=" luogo questo" stroke-opacity="1.0" stroke="#b17bb3"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -764.246399,646.485107 C -813.342834,690.366089 -952.808899,682.543030 -996.689880,633.446594"
+              class=" luogo nobile" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -764.246399,646.485107 C -668.438477,633.252869 -504.878113,757.116333 -491.645874,852.924255"
+              class=" luogo storico" stroke-opacity="1.0" stroke="#806b68"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1100.541748,-363.108856 C 1079.004517,-277.239319 917.894531,-180.740814 832.024963,-202.278000"
+              class="internazionale  cucina" stroke-opacity="1.0"
+              stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 619.060852,-389.960663 C 636.739136,-190.108063 363.477631,136.188232 163.625046,153.866501"
+              class="proprio  sensazione" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 619.060852,-389.960663 C 606.132690,-579.284668 870.726624,-882.662903 1060.050659,-895.591064"
+              class="proprio  persona" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 122.159615,816.537964 C 93.523285,865.434021 -22.775284,895.823608 -71.671349,867.187317"
+              class="convenzionato  hotel" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -344.912384,565.414856 C -229.909698,571.121155 -65.965057,752.184631 -71.671349,867.187317"
+              class="segreto  hotel" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -344.912384,565.414856 C -445.234131,535.277527 -550.510742,339.588867 -520.373413,239.267090"
+              class="segreto  giardino" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -745.198669,380.068054 C -728.393860,306.942810 -593.498657,222.462219 -520.373413,239.267090"
+              class="ricco  giardino" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 421.198456,356.320404 C 424.797913,557.067749 129.075989,863.587891 -71.671349,867.187317"
+              class="ideale  hotel" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 421.198456,356.320404 C 391.644073,162.435394 638.140015,-172.723618 832.024963,-202.278000"
+              class="ideale  cucina" stroke-opacity="1.0" stroke="#f074c2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1177.540405,-1154.229858 C 1205.770264,-1079.004150 1135.276367,-923.820923 1060.050659,-895.591064"
+              class="locale  persona" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -153.422989,-915.431946 C -136.052582,-859.147278 -194.424026,-748.664612 -250.708710,-731.294250"
+              class="gotico  stile" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -520.373413,239.267090 C -435.423950,297.729340 -395.693115,512.846863 -454.155365,597.796326"
+              class=" giardino privato" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -520.373413,239.267090 C -594.326172,261.090210 -737.990112,182.895660 -759.813232,108.942841"
+              class=" giardino terrazzato" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -520.373413,239.267090 C -603.697266,117.658783 -546.270630,-189.739502 -424.662354,-273.063385"
+              class=" giardino bianco" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -520.373413,239.267090 C -418.704865,255.749481 -290.925629,432.975922 -307.408020,534.644470"
+              class=" giardino ampio" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 235.011490,-100.263458 C 271.560211,-35.160175 228.728317,117.317802 163.625046,153.866501"
+              class="soave  sensazione" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 974.759338,-346.511353 C 975.059143,-289.117798 889.418518,-202.577789 832.024963,-202.278000"
+              class="creativo  cucina" stroke-opacity="1.0" stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 384.266022,1.103929 C 370.690338,75.784645 238.305756,167.442169 163.625046,153.866501"
+              class="suo  sensazione" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 315.148163,-54.108875 C 326.438599,17.790825 235.524750,142.576050 163.625046,153.866501"
+              class="essenziale  sensazione" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 265.844452,997.820129 C 172.214722,1039.196655 -30.294746,960.817078 -71.671349,867.187317"
+              class="previsto  hotel" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -79.258484,-875.687256 C -84.669922,-812.518616 -187.540070,-725.882813 -250.708710,-731.294250"
+              class="liberty  stile" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -347.320282,-916.236145 C -291.009583,-898.570068 -233.042664,-787.604980 -250.708710,-731.294250"
+              class="vetroso  stile" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 163.625046,153.866501 C 154.194183,305.158173 -86.889572,517.949402 -238.181229,508.518524"
+              class=" sensazione elegante" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 163.625046,153.866501 C 113.371498,150.973587 42.330566,71.253883 45.223488,21.000334"
+              class=" sensazione assicurato" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 163.625046,153.866501 C 201.204971,135.950821 284.448364,165.447205 302.364044,203.027130"
+              class=" sensazione fiorentino" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 163.625046,153.866501 C 216.356735,240.867294 164.953079,450.465973 77.952286,503.197662"
+              class=" sensazione guidato" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 163.625046,153.866501 C 200.618530,39.619720 427.478943,-76.260193 541.725708,-39.266705"
+              class=" sensazione romano" stroke-opacity="1.0" stroke="#b49044"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 163.625046,153.866501 C 110.380951,107.458046 100.127472,-42.020794 146.535934,-95.264900"
+              class=" sensazione intatto" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 163.625046,153.866501 C 112.933830,294.089844 -173.437988,428.388031 -313.661316,377.696808"
+              class=" sensazione affascinante" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 163.625046,153.866501 C 226.242737,126.625633 361.030579,179.690857 388.271454,242.308548"
+              class=" sensazione antico" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 163.625046,153.866501 C 101.221558,291.304535 -198.540695,403.856384 -335.978729,341.452881"
+              class=" sensazione verde" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 163.625046,153.866501 C 102.174377,129.171173 47.041359,-0.047823 71.736687,-61.498493"
+              class=" sensazione perfetto" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 163.625046,153.866501 C 185.920837,106.922974 289.779846,69.951385 336.723358,92.247192"
+              class=" sensazione rilassante" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 163.625046,153.866501 C 147.069397,109.474762 188.823517,18.053692 233.215256,1.498043"
+              class=" sensazione completo" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 163.625046,153.866501 C 228.103424,235.082275 202.997375,453.623535 121.781593,518.101929"
+              class=" sensazione ogni" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 163.625046,153.866501 C 226.744614,103.367111 397.173004,122.297379 447.672394,185.416946"
+              class=" sensazione migliore possibile" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 163.625046,153.866501 C 206.997208,90.143723 367.639587,59.617794 431.362396,102.989960"
+              class=" sensazione autentico" stroke-opacity="1.0"
+              stroke="#69c404"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -6.507144,1193.229370 C -84.748398,1141.053833 -123.846924,945.428589 -71.671349,867.187317"
+              class="gratuito  hotel" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -528.087463,-821.965820 C -454.477417,-859.307251 -288.050140,-804.904358 -250.708710,-731.294250"
+              class="minimal  stile" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 974.397644,-451.037109 C 995.674927,-372.810730 910.251343,-223.555283 832.024963,-202.278000"
+              class="toscano  cucina" stroke-opacity="1.0" stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 541.725708,-39.266705 C 567.183350,-129.928802 741.362854,-227.735596 832.024963,-202.278000"
+              class="romano  cucina" stroke-opacity="1.0" stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -587.063904,-2379.226074 C -540.679138,-2344.528320 -523.148926,-2222.904297 -557.846802,-2176.519531"
+              class=" superficie ﻿poco" stroke-opacity="1.0" stroke="#00af87"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -587.063904,-2379.226074 C -580.750000,-2412.968750 -520.665039,-2454.112061 -486.922333,-2447.798096"
+              class=" superficie breve" stroke-opacity="1.0" stroke="#00af87"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -252.144547,1020.644836 C -246.741394,953.858643 -138.457489,861.784180 -71.671349,867.187317"
+              class="ricercato  hotel" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -389.324310,-1042.180664 C -299.423920,-1007.726501 -216.254547,-821.194702 -250.708710,-731.294250"
+              class="originario  stile" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1091.330688,-1151.281982 C 1136.212891,-1093.887817 1117.444824,-940.473267 1060.050659,-895.591064"
+              class="alto  persona" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -61.087715,1267.027344 C -143.172455,1189.176025 -149.522629,949.272034 -71.671349,867.187317"
+              class="esterno  hotel" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -495.717957,-894.495300 C -414.075867,-910.856934 -267.070374,-812.936279 -250.708710,-731.294250"
+              class="chiaro  stile" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.926881,1255.052734 C -83.965843,1193.799316 -132.924789,961.080017 -71.671349,867.187317"
+              class="attrezzato  hotel" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -413.035309,-833.412537 C -360.146332,-845.454224 -262.750397,-784.183228 -250.708710,-731.294250"
+              class="classico  stile" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -202.046356,889.805969 -431.536774,728.171326 -454.155365,597.796326"
+              class=" hotel privato" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -70.085014,817.567566 6.724085,745.517517 56.343819,747.103821"
+              class=" hotel comune" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -58.964809,970.406433 -194.733612,1144.294800 -297.952698,1157.001343"
+              class=" hotel pugliese" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -34.286041,928.219604 -69.756523,1075.845947 -130.788818,1113.231323"
+              class=" hotel 35" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -99.003899,948.276611 -261.636658,1028.911743 -342.725983,1001.579224"
+              class=" hotel attento" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -34.211304,970.421509 -132.872513,1181.462769 -236.106689,1218.922852"
+              class=" hotel cinque" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -71.671349,867.187317 C -102.797836,758.679626 13.273926,549.228394 121.781593,518.101929"
+              class=" hotel ogni" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -71.671349,867.187317 C -185.327240,847.826111 -326.769257,648.300354 -307.408020,534.644470"
+              class=" hotel ampio" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -11.553329,960.910706 -61.961342,1191.672852 -155.684708,1251.790771"
+              class=" hotel ottocentesco" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -107.593048,884.443115 -187.359360,856.444458 -204.615219,820.522705"
+              class=" hotel promozionale" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -176.707092,828.755554 -276.613007,613.554260 -238.181229,508.518524"
+              class=" hotel elegante" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -27.678713,869.964600 34.144302,940.119507 31.367014,984.112122"
+              class=" hotel confortevole" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C 28.572388,844.364868 213.171631,960.496887 235.994049,1060.740601"
+              class=" hotel adeguato" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -71.671349,867.187317 C -99.249107,919.036316 -218.389191,955.443054 -270.238129,927.865295"
+              class=" hotel satellitare" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -6.722274,823.418823 156.354095,855.189697 200.122604,920.138733"
+              class=" hotel riposante" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -169.850937,916.391663 -390.926880,842.928833 -440.131256,744.749268"
+              class=" hotel rinomato" stroke-opacity="1.0" stroke="#b17bb3"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -59.326973,909.803345 -104.734444,992.243896 -147.350464,1004.588318"
+              class=" hotel diretto" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C 32.520721,863.155396 194.856720,1013.395569 198.888641,1117.587646"
+              class=" hotel selezionato" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -37.686794,950.853394 -112.209061,1127.329224 -195.875122,1161.313843"
+              class=" hotel meraviglioso" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -59.888081,946.217407 -160.758377,1082.437500 -239.788513,1094.220825"
+              class=" hotel intimo" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -11.528032,800.098267 179.320511,789.679688 246.409561,849.822998"
+              class=" hotel agricolo" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -19.832951,908.981262 -4.766281,1049.429810 -46.560230,1101.268188"
+              class=" hotel aziendale" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C 3.233635,852.142822 138.157806,941.933655 153.202271,1016.838623"
+              class=" hotel arricchito" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -71.671349,867.187317 C -171.429367,931.281067 -417.207031,877.784668 -481.300751,778.026611"
+              class=" hotel questo" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -79.696159,964.923218 -238.337219,1099.489868 -336.073151,1091.465088"
+              class=" hotel impreziosito" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -114.544548,764.464661 -24.770370,546.070862 77.952286,503.197662"
+              class=" hotel guidato" stroke-opacity="1.0" stroke="#a5a781"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -71.671349,867.187317 C -254.134369,725.301453 -315.000031,238.778061 -173.114136,56.315041"
+              class=" hotel esclusivo" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C -158.518875,948.329590 -410.503571,939.771729 -491.645874,852.924255"
+              class=" hotel storico" stroke-opacity="1.0" stroke="#b17bb3"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -71.671349,867.187317 C 34.369663,881.558899 171.873749,1062.177856 157.502136,1168.218872"
+              class=" hotel ristrutturato" stroke-opacity="1.0" stroke="#e28bff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1135.990845,-277.188568 C 1090.179688,-201.413269 907.800232,-156.466934 832.024963,-202.278000"
+              class="biologico  cucina" stroke-opacity="1.0" stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -154.474869,-1043.582031 C -111.264084,-961.877686 -169.004395,-774.505066 -250.708710,-731.294250"
+              class="italiano  stile" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -258.609100,-908.724304 C -221.543015,-874.818359 -216.802780,-768.360352 -250.708710,-731.294250"
+              class="barocco  stile" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1047.575928,-284.929993 C 1020.996155,-225.289398 891.665527,-175.698196 832.024963,-202.278000"
+              class="esotico  cucina" stroke-opacity="1.0" stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1123.736938,-114.691803 C 1047.877319,-73.866653 872.850159,-126.418365 832.024963,-202.278000"
+              class="gourmet  cucina" stroke-opacity="1.0" stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -412.484894,-973.739685 C -331.640564,-957.605835 -234.574875,-812.138550 -250.708710,-731.294250"
+              class="moresco  stile" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -250.708710,-731.294250 C -298.680054,-688.994629 -434.086456,-697.502197 -476.386047,-745.473572"
+              class=" stile studiato" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -250.708710,-731.294250 C -299.491913,-790.683655 -283.582550,-952.942688 -224.193100,-1001.725891"
+              class=" stile pastello" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -250.708710,-731.294250 C -267.447540,-814.924805 -167.109894,-965.479004 -83.479279,-982.217834"
+              class=" stile moderno" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -250.708710,-731.294250 C -77.667923,-589.291321 -31.111191,-116.725739 -173.114136,56.315041"
+              class=" stile esclusivo" stroke-opacity="1.0" stroke="#71a9ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -250.708710,-731.294250 C -346.927551,-732.090820 -490.060974,-877.614014 -489.264374,-973.832825"
+              class=" stile suggestivo" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -250.708710,-731.294250 C -193.853271,-604.857361 -298.225433,-329.918823 -424.662354,-273.063385"
+              class=" stile bianco" stroke-opacity="1.0" stroke="#00c7ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1152.165161,-194.516678 C 1086.584839,-132.040894 894.500732,-136.697693 832.024963,-202.278000"
+              class="gustoso  cucina" stroke-opacity="1.0" stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1060.050659,-895.591064 C 1096.144165,-958.789612 1245.082397,-999.447205 1308.280884,-963.353638"
+              class=" persona eclettico" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 1060.050659,-895.591064 C 1056.272827,-980.530579 1178.015381,-1113.606689 1262.954834,-1117.384521"
+              class=" persona famoso" stroke-opacity="1.0" stroke="#69c404"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 889.492737,-431.637451 C 923.871094,-374.272003 889.390381,-236.656326 832.024963,-202.278000"
+              class="tradizionale  cucina" stroke-opacity="1.0" stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1046.915894,-75.138138 C 978.509705,-57.587921 849.575195,-133.871826 832.024963,-202.278000"
+              class="assoluto  cucina" stroke-opacity="1.0" stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 832.024963,-202.278000 C 832.115051,-285.539490 957.142456,-410.296570 1040.403931,-410.206451"
+              class=" cucina mediterraneo" stroke-opacity="1.0" stroke="#ff5d85"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 832.024963,-202.278000 C 879.019775,-242.580536 1009.965759,-232.542053 1050.268311,-185.547241"
+              class=" cucina tradizionle" stroke-opacity="1.0" stroke="#ff5d85"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-936.3326"
+                class="vicino" cy="819.90436" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-699.09186"
+                class="rampicante" cy="42.373962" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="103.21319"
+                class="pensato" cy="1215.0015" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="116.943016"
+                class="ubicato" cy="1096.7316" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="274.02097"
+                class="tipico" cy="925.6787" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.851064" cx="308.79645"
+                class="innovativo" cy="-510.85284" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="1196.9873"
+                class="ospitale" cy="-1060.613" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="1306.5796"
+                class="raffinato" cy="-1045.1547" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.851064" cx="-454.5351"
+                class="numeroso" cy="816.09973" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-102.22277"
+                class="condizionato" cy="1198.1337" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-1121.3749"
+                class="alcuni" cy="681.4162" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="-655.1066"
+                class="quadrato" cy="-2603.7659" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="48.70595"
+                class="bio" cy="1082.0487" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-315.70145"
+                class="vero e proprio" cy="-1047.4434" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-255.8908"
+                class="contemporaneo" cy="-1072.829" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="119.116684"
+                class="spazioso" cy="922.82117" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="55.72015"
+                class="individuale" cy="1161.0331" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.851064" cx="32.39011"
+                class="speciale" cy="488.09665" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="193.02562"
+                class="rifinito" cy="783.3029" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-1088.5087"
+                class="maggiore" cy="543.1518" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="29.574469" cx="-764.2464"
+                class=" luogo" cy="646.4851" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="1100.5417"
+                class="internazionale" cy="-363.10886" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.851064" cx="619.06085"
+                class="proprio" cy="-389.96066" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="122.159615"
+                class="convenzionato" cy="816.53796" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.851064" cx="-344.91238"
+                class="segreto" cy="565.41486" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.851064" cx="-745.19867"
+                class="ricco" cy="380.06805" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.851064" cx="421.19846"
+                class="ideale" cy="356.3204" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="1177.5404"
+                class="locale" cy="-1154.2299" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-153.42299"
+                class="gotico" cy="-915.43195" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="15.106382" cx="-520.3734"
+                class=" giardino" cy="239.26709" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="235.01149"
+                class="soave" cy="-100.26346" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="974.75934"
+                class="creativo" cy="-346.51135" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="384.26602"
+                class="suo" cy="1.1039293" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="315.14816"
+                class="essenziale" cy="-54.108875" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="265.84445"
+                class="previsto" cy="997.8201" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-79.258484"
+                class="liberty" cy="-875.68726" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-347.32028"
+                class="vetroso" cy="-916.23615" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="26.170214" cx="163.62505"
+                class=" sensazione" cy="153.8665" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-1114.3508"
+                class="invidiabile" cy="613.4106" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="336.72336"
+                class="rilassante" cy="92.24719" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-6.5071445"
+                class="gratuito" cy="1193.2294" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-528.08746"
+                class="minimal" cy="-821.9658" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="974.39764"
+                class="toscano" cy="-451.0371" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.851064" cx="541.7257"
+                class="romano" cy="-39.266705" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="388.27145"
+                class="antico" cy="242.30855" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00af87" r="11.702127" cx="-587.0639"
+                class=" superficie" cy="-2379.226" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="302.36404"
+                class="fiorentino" cy="203.02713" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-252.14455"
+                class="ricercato" cy="1020.64484" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-1031.4082"
+                class="mite" cy="866.74146" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-389.3243"
+                class="originario" cy="-1042.1807" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="1091.3307"
+                class="alto" cy="-1151.282" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-61.087715"
+                class="esterno" cy="1267.0273" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-495.71796"
+                class="chiaro" cy="-894.4953" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="9.926881"
+                class="attrezzato" cy="1255.0527" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-413.0353"
+                class="classico" cy="-833.41254" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="50.0" cx="-71.67135"
+                class=" hotel" cy="867.1873" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.851064" cx="-481.30075"
+                class="questo" cy="778.0266" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-130.78882"
+                class="35" cy="1113.2313" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="1135.9908"
+                class="biologico" cy="-277.18857" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="71.73669"
+                class="perfetto" cy="-61.498493" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.851064" cx="-491.64587"
+                class="storico" cy="852.92426" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="11.702127" cx="-454.15536"
+                class="privato" cy="597.7963" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-154.47487"
+                class="italiano" cy="-1043.582" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="146.53593"
+                class="intatto" cy="-95.2649" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-342.72598"
+                class="attento" cy="1001.5792" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-258.6091"
+                class="barocco" cy="-908.7243" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="1047.5759"
+                class="esotico" cy="-284.93" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.851064" cx="-313.66132"
+                class="affascinante" cy="377.6968" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="447.6724"
+                class="migliore possibile" cy="185.41695" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.851064" cx="-307.40802"
+                class="ampio" cy="534.6445" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-155.68471"
+                class="ottocentesco" cy="1251.7908" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-968.9171"
+                class="spettacolare" cy="736.874" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-204.61522"
+                class="promozionale" cy="820.5227" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="1123.7369"
+                class="gourmet" cy="-114.6918" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-412.4849"
+                class="moresco" cy="-973.7397" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-962.2535"
+                class="popolato" cy="465.44705" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="11.702127" cx="-238.18123"
+                class="elegante" cy="508.51852" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="26.170214" cx="-250.70871"
+                class=" stile" cy="-731.29425" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-759.81323"
+                class="terrazzato" cy="108.94284" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="200.1226"
+                class="riposante" cy="920.13873" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.851064" cx="-440.13126"
+                class="rinomato" cy="744.74927" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-239.78851"
+                class="intimo" cy="1094.2208" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="1152.1652"
+                class="gustoso" cy="-194.51668" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="246.40956"
+                class="agricolo" cy="849.823" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="45.223488"
+                class="assicurato" cy="21.000334" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="233.21526"
+                class="completo" cy="1.4980432" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.851064" cx="-335.97873"
+                class="verde" cy="341.45288" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="431.3624"
+                class="autentico" cy="102.98996" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="-486.92233"
+                class="breve" cy="-2447.798" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-1042.6979"
+                class="11" cy="705.97754" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.851064" cx="77.952286"
+                class="guidato" cy="503.19766" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="15.106382" cx="1060.0507"
+                class=" persona" cy="-895.59106" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-336.07315"
+                class="impreziosito" cy="1091.4651" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-489.26437"
+                class="suggestivo" cy="-973.8328" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-297.9527"
+                class="pugliese" cy="1157.0013" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-1042.639"
+                class="salentino" cy="480.9351" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="56.34382"
+                class="comune" cy="747.1038" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="1308.2809"
+                class="eclettico" cy="-963.35364" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-83.47928"
+                class="moderno" cy="-982.21783" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00af87" r="10.0" cx="-557.8468"
+                class="﻿poco" cy="-2176.5195" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.851064" cx="121.78159"
+                class="ogni" cy="518.1019" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="889.49274"
+                class="tradizionale" cy="-431.63745" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-224.1931"
+                class="pastello" cy="-1001.7259" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="31.367014"
+                class="confortevole" cy="984.1121" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="235.99405"
+                class="adeguato" cy="1060.7406" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-270.23813"
+                class="satellitare" cy="927.8653" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-893.8265"
+                class="noto" cy="902.029" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-982.7244"
+                class="ricchissimo" cy="549.1523" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-147.35046"
+                class="diretto" cy="1004.5883" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-1106.3806"
+                class="incantevole" cy="758.4657" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-1065.8907"
+                class="terrestre" cy="813.0213" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="198.88864"
+                class="selezionato" cy="1117.5876" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-195.87512"
+                class="meraviglioso" cy="1161.3138" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.0" cx="-476.38605"
+                class="studiato" cy="-745.4736" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="1046.9159"
+                class="assoluto" cy="-75.13814" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-974.0452"
+                class="selvaggio" cy="910.3572" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="21.06383" cx="832.02496"
+                class=" cucina" cy="-202.278" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c7ff" r="10.851064" cx="-424.66235"
+                class="bianco" cy="-273.0634" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-46.56023"
+                class="aziendale" cy="1101.2682" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="153.20227"
+                class="arricchito" cy="1016.8386" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="1040.4039"
+                class="mediterraneo" cy="-410.20645" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5d85" r="10.0" cx="1050.2683"
+                class="tradizionle" cy="-185.54724" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="-236.10669"
+                class="cinque" cy="1218.9229" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#806b68" r="10.0" cx="-996.6899"
+                class="nobile" cy="633.4466" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.851064" cx="-173.11414"
+                class="esclusivo" cy="56.31504" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#69c404" r="10.0" cx="1262.9548"
+                class="famoso" cy="-1117.3845" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e28bff" r="10.0" cx="157.50214"
+                class="ristrutturato" cy="1168.2189" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="12" x="-936.3326" y="822.087" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="vicino">
+            vicino
+        </text>
+        <text font-size="12" x="-699.09186" y="45.118103" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="rampicante">
+            rampicante
+        </text>
+        <text font-size="12" x="103.21319" y="1217.6978" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="pensato">
+            pensato
+        </text>
+        <text font-size="12" x="116.943016" y="1098.9142" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ubicato">
+            ubicato
+        </text>
+        <text font-size="12" x="274.02097" y="928.42285" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="tipico">
+            tipico
+        </text>
+        <text font-size="12" x="308.79645" y="-508.67023" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="innovativo">
+            innovativo
+        </text>
+        <text font-size="12" x="1196.9873" y="-1057.8689" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ospitale">
+            ospitale
+        </text>
+        <text font-size="12" x="1306.5796" y="-1042.9349" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="raffinato">
+            raffinato
+        </text>
+        <text font-size="12" x="-454.5351" y="817.7257" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="numeroso">
+            numeroso
+        </text>
+        <text font-size="12" x="-102.22277" y="1200.3163" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="condizionato">
+            condizionato
+        </text>
+        <text font-size="12" x="-1121.3749" y="683.5988" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="alcuni">
+            alcuni
+        </text>
+        <text font-size="12" x="-655.1066" y="-2601.0217" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="quadrato">
+            quadrato
+        </text>
+        <text font-size="12" x="48.70595" y="1084.2313" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="bio">
+            bio
+        </text>
+        <text font-size="12" x="-315.70145" y="-1044.6992" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="vero e proprio">
+            vero e proprio
+        </text>
+        <text font-size="12" x="-255.8908" y="-1070.1327" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="contemporaneo">
+            contemporaneo
+        </text>
+        <text font-size="12" x="119.116684" y="925.5653" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="spazioso">
+            spazioso
+        </text>
+        <text font-size="12" x="55.72015" y="1163.2157" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="individuale">
+            individuale
+        </text>
+        <text font-size="12" x="32.39011" y="490.8408" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="speciale">
+            speciale
+        </text>
+        <text font-size="12" x="193.02562" y="785.52264" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="rifinito">
+            rifinito
+        </text>
+        <text font-size="12" x="-1088.5087" y="545.9311" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="maggiore">
+            maggiore
+        </text>
+        <text font-size="12" x="-764.2464" y="649.2644" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class=" luogo">
+            luogo
+        </text>
+        <text font-size="12" x="1100.5417" y="-360.92624" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="internazionale">
+            internazionale
+        </text>
+        <text font-size="12" x="619.06085" y="-387.21652" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="proprio">
+            proprio
+        </text>
+        <text font-size="12" x="122.159615" y="818.7206" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="convenzionato">
+            convenzionato
+        </text>
+        <text font-size="12" x="-344.91238" y="568.1463" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="segreto">
+            segreto
+        </text>
+        <text font-size="12" x="-745.19867" y="382.25067" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ricco">
+            ricco
+        </text>
+        <text font-size="12" x="421.19846" y="358.50302" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ideale">
+            ideale
+        </text>
+        <text font-size="12" x="1177.5404" y="-1152.0472" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="locale">
+            locale
+        </text>
+        <text font-size="12" x="-153.42299" y="-912.65265" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="gotico">
+            gotico
+        </text>
+        <text font-size="12" x="-520.3734" y="242.04639" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class=" giardino">
+            giardino
+        </text>
+        <text font-size="12" x="235.01149" y="-98.63748" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="soave">
+            soave
+        </text>
+        <text font-size="12" x="974.75934" y="-344.32874" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="creativo">
+            creativo
+        </text>
+        <text font-size="12" x="384.26602" y="2.7299058" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="suo">
+            suo
+        </text>
+        <text font-size="12" x="315.14816" y="-51.926258" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="essenziale">
+            essenziale
+        </text>
+        <text font-size="12" x="265.84445" y="1000.5643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="previsto">
+            previsto
+        </text>
+        <text font-size="12" x="-79.258484" y="-872.90796" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="liberty">
+            liberty
+        </text>
+        <text font-size="12" x="-347.32028" y="-914.1014" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="vetroso">
+            vetroso
+        </text>
+        <text font-size="12" x="163.62505" y="156.04912" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class=" sensazione">
+            sensazione
+        </text>
+        <text font-size="12" x="-1114.3508" y="615.5932" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="invidiabile">
+            invidiabile
+        </text>
+        <text font-size="12" x="336.72336" y="94.42981" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="rilassante">
+            rilassante
+        </text>
+        <text font-size="12" x="-6.5071445" y="1196.0087" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="gratuito">
+            gratuito
+        </text>
+        <text font-size="12" x="-528.08746" y="-819.7832" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="minimal">
+            minimal
+        </text>
+        <text font-size="12" x="974.39764" y="-448.90234" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="toscano">
+            toscano
+        </text>
+        <text font-size="12" x="541.7257" y="-37.640728" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="romano">
+            romano
+        </text>
+        <text font-size="12" x="388.27145" y="244.49117" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="antico">
+            antico
+        </text>
+        <text font-size="12" x="-587.0639" y="-2376.4448" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class=" superficie">
+            superficie
+        </text>
+        <text font-size="12" x="302.36404" y="205.24686" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="fiorentino">
+            fiorentino
+        </text>
+        <text font-size="12" x="-252.14455" y="1022.82745" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ricercato">
+            ricercato
+        </text>
+        <text font-size="12" x="-1031.4082" y="868.9241" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="mite">
+            mite
+        </text>
+        <text font-size="12" x="-389.3243" y="-1039.4014" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="originario">
+            originario
+        </text>
+        <text font-size="12" x="1091.3307" y="-1149.0994" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="alto">
+            alto
+        </text>
+        <text font-size="12" x="-61.087715" y="1269.1621" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="esterno">
+            esterno
+        </text>
+        <text font-size="12" x="-495.71796" y="-892.3127" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="chiaro">
+            chiaro
+        </text>
+        <text font-size="12" x="9.926881" y="1257.1875" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="attrezzato">
+            attrezzato
+        </text>
+        <text font-size="12" x="-413.0353" y="-831.2299" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="classico">
+            classico
+        </text>
+        <text font-size="12" x="-71.67135" y="869.36993" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class=" hotel">
+            hotel
+        </text>
+        <text font-size="12" x="-481.30075" y="780.7229" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="questo">
+            questo
+        </text>
+        <text font-size="12" x="-130.78882" y="1115.4257" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="35">
+            35
+        </text>
+        <text font-size="12" x="1135.9908" y="-274.40927" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="biologico">
+            biologico
+        </text>
+        <text font-size="12" x="71.73669" y="-58.717243" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="perfetto">
+            perfetto
+        </text>
+        <text font-size="12" x="-491.64587" y="855.1069" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="storico">
+            storico
+        </text>
+        <text font-size="12" x="-454.15536" y="600.54047" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="privato">
+            privato
+        </text>
+        <text font-size="12" x="-154.47487" y="-1041.3994" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="italiano">
+            italiano
+        </text>
+        <text font-size="12" x="146.53593" y="-93.08228" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="intatto">
+            intatto
+        </text>
+        <text font-size="12" x="-342.72598" y="1003.714" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="attento">
+            attento
+        </text>
+        <text font-size="12" x="-258.6091" y="-906.5417" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="barocco">
+            barocco
+        </text>
+        <text font-size="12" x="1047.5759" y="-282.74738" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="esotico">
+            esotico
+        </text>
+        <text font-size="12" x="-313.66132" y="379.91653" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="affascinante">
+            affascinante
+        </text>
+        <text font-size="12" x="447.6724" y="188.19624" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="migliore possibile">
+            migliore possibile
+        </text>
+        <text font-size="12" x="-307.40802" y="537.3886" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ampio">
+            ampio
+        </text>
+        <text font-size="12" x="-155.68471" y="1253.9255" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ottocentesco">
+            ottocentesco
+        </text>
+        <text font-size="12" x="-968.9171" y="739.61816" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="spettacolare">
+            spettacolare
+        </text>
+        <text font-size="12" x="-204.61522" y="823.26685" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="promozionale">
+            promozionale
+        </text>
+        <text font-size="12" x="1123.7369" y="-111.96036" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="gourmet">
+            gourmet
+        </text>
+        <text font-size="12" x="-412.4849" y="-972.1137" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="moresco">
+            moresco
+        </text>
+        <text font-size="12" x="-962.2535" y="468.1912" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="popolato">
+            popolato
+        </text>
+        <text font-size="12" x="-238.18123" y="511.29782" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="elegante">
+            elegante
+        </text>
+        <text font-size="12" x="-250.70871" y="-729.11163" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class=" stile">
+            stile
+        </text>
+        <text font-size="12" x="-759.81323" y="111.07761" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="terrazzato">
+            terrazzato
+        </text>
+        <text font-size="12" x="200.1226" y="922.8829" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="riposante">
+            riposante
+        </text>
+        <text font-size="12" x="-440.13126" y="746.9319" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="rinomato">
+            rinomato
+        </text>
+        <text font-size="12" x="-239.78851" y="1096.4034" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="intimo">
+            intimo
+        </text>
+        <text font-size="12" x="1152.1652" y="-191.78523" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="gustoso">
+            gustoso
+        </text>
+        <text font-size="12" x="246.40956" y="852.6023" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="agricolo">
+            agricolo
+        </text>
+        <text font-size="12" x="45.223488" y="23.182951" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="assicurato">
+            assicurato
+        </text>
+        <text font-size="12" x="233.21526" y="4.2421837" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="completo">
+            completo
+        </text>
+        <text font-size="12" x="-335.97873" y="343.6355" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="verde">
+            verde
+        </text>
+        <text font-size="12" x="431.3624" y="105.17258" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="autentico">
+            autentico
+        </text>
+        <text font-size="12" x="-486.92233" y="-2445.6155" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="breve">
+            breve
+        </text>
+        <text font-size="12" x="-1042.6979" y="708.1338" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="11">
+            11
+        </text>
+        <text font-size="12" x="77.952286" y="505.97696" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="guidato">
+            guidato
+        </text>
+        <text font-size="12" x="1060.0507" y="-893.40356" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class=" persona">
+            persona
+        </text>
+        <text font-size="12" x="-336.07315" y="1094.2092" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="impreziosito">
+            impreziosito
+        </text>
+        <text font-size="12" x="-489.26437" y="-971.0535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="suggestivo">
+            suggestivo
+        </text>
+        <text font-size="12" x="-297.9527" y="1159.7806" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="pugliese">
+            pugliese
+        </text>
+        <text font-size="12" x="-1042.639" y="483.1177" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="salentino">
+            salentino
+        </text>
+        <text font-size="12" x="56.34382" y="748.7298" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="comune">
+            comune
+        </text>
+        <text font-size="12" x="1308.2809" y="-961.171" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="eclettico">
+            eclettico
+        </text>
+        <text font-size="12" x="-83.47928" y="-980.0352" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="moderno">
+            moderno
+        </text>
+        <text font-size="12" x="-557.8468" y="-2174.332" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="﻿poco">
+            ﻿poco
+        </text>
+        <text font-size="12" x="121.78159" y="520.8812" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ogni">
+            ogni
+        </text>
+        <text font-size="12" x="889.49274" y="-429.45483" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="tradizionale">
+            tradizionale
+        </text>
+        <text font-size="12" x="-224.1931" y="-998.98175" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="pastello">
+            pastello
+        </text>
+        <text font-size="12" x="31.367014" y="986.33185" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="confortevole">
+            confortevole
+        </text>
+        <text font-size="12" x="235.99405" y="1063.5199" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="adeguato">
+            adeguato
+        </text>
+        <text font-size="12" x="-270.23813" y="930.0479" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="satellitare">
+            satellitare
+        </text>
+        <text font-size="12" x="-893.8265" y="904.16376" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="noto">
+            noto
+        </text>
+        <text font-size="12" x="-982.7244" y="551.3349" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ricchissimo">
+            ricchissimo
+        </text>
+        <text font-size="12" x="-147.35046" y="1006.77094" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="diretto">
+            diretto
+        </text>
+        <text font-size="12" x="-1106.3806" y="760.6483" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="incantevole">
+            incantevole
+        </text>
+        <text font-size="12" x="-1065.8907" y="815.15607" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="terrestre">
+            terrestre
+        </text>
+        <text font-size="12" x="198.88864" y="1119.7703" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="selezionato">
+            selezionato
+        </text>
+        <text font-size="12" x="-195.87512" y="1164.0931" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="meraviglioso">
+            meraviglioso
+        </text>
+        <text font-size="12" x="-476.38605" y="-743.29095" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="studiato">
+            studiato
+        </text>
+        <text font-size="12" x="1046.9159" y="-72.95552" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="assoluto">
+            assoluto
+        </text>
+        <text font-size="12" x="-974.0452" y="913.1365" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="selvaggio">
+            selvaggio
+        </text>
+        <text font-size="12" x="832.02496" y="-200.09538" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class=" cucina">
+            cucina
+        </text>
+        <text font-size="12" x="-424.66235" y="-270.88077" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="bianco">
+            bianco
+        </text>
+        <text font-size="12" x="-46.56023" y="1103.4508" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="aziendale">
+            aziendale
+        </text>
+        <text font-size="12" x="153.20227" y="1019.02124" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="arricchito">
+            arricchito
+        </text>
+        <text font-size="12" x="1040.4039" y="-408.02383" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="mediterraneo">
+            mediterraneo
+        </text>
+        <text font-size="12" x="1050.2683" y="-183.36462" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="tradizionle">
+            tradizionle
+        </text>
+        <text font-size="12" x="-236.10669" y="1221.667" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="cinque">
+            cinque
+        </text>
+        <text font-size="12" x="-996.6899" y="635.6292" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="nobile">
+            nobile
+        </text>
+        <text font-size="12" x="-173.11414" y="58.497658" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="esclusivo">
+            esclusivo
+        </text>
+        <text font-size="12" x="1262.9548" y="-1115.1648" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="famoso">
+            famoso
+        </text>
+        <text font-size="12" x="157.50214" y="1170.4015" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ristrutturato">
+            ristrutturato
+        </text>
+    </g>
+</svg>
